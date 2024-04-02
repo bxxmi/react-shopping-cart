@@ -13,6 +13,9 @@ yarn.lock
 .vscode/*
 .DS_Store
 
+# environment
+.env
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
